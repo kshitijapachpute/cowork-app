@@ -6,6 +6,17 @@ The Screens of the application are codedbut expo routes were not working.. so no
 All UI screens are very fluent and fast to load as it is compiled native application.
 Screenshots of the screens are attached below: 
 
+Steps to install and run the app:
+
+1. Create a expo env by running:
+npx create-expo-app@latest --example with-router
+
+2. Install all dependencies by running:
+npm i
+
+3. and Run the app:
+npm start
+
 ![Login](https://github.com/kshitijapachpute/cowork-app/assets/135831123/dbb78f15-f1ee-47da-9974-0a0aa0edf17e)
 ![Registration](https://github.com/kshitijapachpute/cowork-app/assets/135831123/854c46f5-0802-41eb-91de-24ae5f665a4d)
 ![Dashboard](https://github.com/kshitijapachpute/cowork-app/assets/135831123/3118ffc5-50f3-4070-a829-e3d3d8ecf290)
